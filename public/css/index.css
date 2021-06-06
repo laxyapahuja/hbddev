@@ -1,0 +1,44 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #FF7A7A;
+}
+
+.heading {
+    color: white;
+    font-family: 'Comic Sans MS'
+}
+
+button {
+    padding: 1vh 4vh 1vh 4vh;
+    font-size: 16pt;
+    border-radius: 10px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+
+#answer {
+    padding: 1vh;
+}
+
+.question-box {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #eaeaea;
+    padding: 10vh;
+    border-radius: 10px;
+    max-width: 70vh;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+* {
+    font-family: 'Comic Sans MS';
+}

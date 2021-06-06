@@ -1,0 +1,1 @@
+module.exports = ['pornastr', 'itthey', 'screenslay']
